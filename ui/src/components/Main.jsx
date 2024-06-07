@@ -124,7 +124,7 @@ export default function Main() {
                   </div>
                   <p className="text-xs leading-5 text-gray-600">
                     PNG, JPG, GIF up to 10MB
-                  </p></div> : <div>{file.name}hello</div>}
+                  </p></div> : <div>{file.name}</div>}
                 </div>
               </div>
               <button className="bg-indigo-300 center hover:bg-gray-400 text-white font-bold py-2 px-4 rounded inline-flex items-center">

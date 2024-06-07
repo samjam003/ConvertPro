@@ -16,3 +16,9 @@ ConvertPro is a web application that allows users to upload images and convert t
 ```sh
 git clone https://github.com/your-username/convertpro.git
 cd convertpro
+```
+###2. Setup Frontend (React)
+```sh
+cd UI
+npm install
+```
